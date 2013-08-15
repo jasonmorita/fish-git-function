@@ -18,4 +18,7 @@ Obviously I am on a Mac with CodeKit and sometimes if it's open when you pull, i
 
 gititon "your descriptive commit message here"
 
+### More info here:
+
+http://fishshell.com/docs/2.0/commands.html#function
 
