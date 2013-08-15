@@ -12,6 +12,8 @@ I had to create the functions dir.
 
 Be sure to replace all the dirs and branchnames with your stuff. 
 
+Obviously I am on a Mac with CodeKit and sometimes if it's open when you pull, it recompiles LESS or what have you and things get confusing. So this closes it and then opens it back up at the end. 
+
 ### Usage:
 
 gititon "your descriptive commit message here"
