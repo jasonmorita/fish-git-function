@@ -8,7 +8,7 @@ function gititon -d "CD to clients, Git add, push, pull, merge, etc."
 	git push 
 	git checkout master
 	git pull
-	git merge jmorita
+	git merge yourworkingbranchname
 	git push
 	git checkout yourworkingbranchname
 	git merge master
